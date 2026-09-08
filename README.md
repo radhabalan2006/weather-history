@@ -94,17 +94,7 @@ Displays the proportion of Sunny, Rainy, Cloudy, and other weather conditions.
 
 ---
 
-## 📷 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here after completing the project.
-
-Example:
-
-```
-Weather Dashboard Screenshot
-```
-
----
 
 ## 📈 Key Insights
 
